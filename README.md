@@ -4,7 +4,7 @@ This is a **Persion clone of the flightio website**, built with **Tailwind CSS**
 ### - Responsive
 ### - RTL layout
 
-- [Demo Project]( https://nastaranghorbanpour.github.io/weather/) 
+- [Demo Project](https://nastaranghorbanpour.github.io/flightio-site/)
 - Developed by Nastaran Ghorbanpour
 - Created - 2025-07-30
 - Technologies Used : Html , css , tailwind , javascript
